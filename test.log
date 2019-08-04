@@ -1,0 +1,7 @@
+2019-08-04 10:13:14.865 [main] INFO  com.test.qa.keywords.Keywords >> Navigate to url : https://opensource-demo.orangehrmlive.com/index.php/auth/login
+2019-08-04 10:13:14.982 [main] INFO  com.test.qa.keywords.Keywords >> Enter input text : Admin to the ui element with xpath : //input[@id="txtUsername"]
+2019-08-04 10:13:15.038 [main] INFO  com.test.qa.keywords.Keywords >> Enter input text : admin123 to the ui element with xpath : //input[@id="txtPassword"]
+2019-08-04 10:13:16.589 [main] INFO  com.test.qa.keywords.Keywords >> Reading text from ui element with xpath : //a[@id="welcome"]
+2019-08-04 10:13:16.652 [main] INFO  com.test.qa.keywords.Keywords >> Click ui element with xpath : //a[@id="welcome"]
+2019-08-04 10:13:18.200 [main] INFO  com.test.qa.keywords.Keywords >> Click ui element with xpath : //a[contains(text(),'Logout')]
+2019-08-04 10:13:18.795 [main] INFO  com.test.qa.keywords.Keywords >> Close browser
